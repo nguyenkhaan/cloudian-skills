@@ -19,6 +19,7 @@ This is a personal project to help me work faster. I gathered these skills from 
 | :--- | :--- | :--- |
 | interview-me | Asks questions one by one to find out what you really want to build. | The task details are not clear, or you want to align on the core requirements. |
 | idea-refine | Explores different options to turn a rough idea into a clear proposal. | You have a vague concept and want to make it better before writing a plan. |
+| spec-driven-development | Write a PRD covering objectives, commands, structure, code style, testing, and boundaries before any code | Starting a new project, feature, or significant change. |
 
 ### Delve into Idea
 | Skill | What It Does | Use When |
@@ -49,6 +50,7 @@ This is a personal project to help me work faster. I gathered these skills from 
 | :--- | :--- | :--- |
 | frontend-ui-engineering | Builds user interfaces that are easy to use, work on mobile, and follow accessibility rules. | Creating or updating web pages and UI components. |
 | frontend-design | Applies colors, gradients, dark mode, and animations to make pages look premium. | Styling UI components or layouts to look beautiful. |
+| improve | Shadcn skills. It allow AI to know and use **shadcn** components for design | Applying **shadcn components** to the UI, reach the consistency in design. |
 
 ### Folder Structure & Clean Code
 | Skill | What It Does | Use When |
@@ -63,6 +65,7 @@ This is a personal project to help me work faster. I gathered these skills from 
 ### Code Improvements
 | Skill | What It Does | Use When |
 | :--- | :--- | :--- |
+| impeccable | Produces high-quality, well-reasoned, and reliable judge and solutions. | tasks, critical code changes, or when breaking problems, especially to judge the UI/UX design. |
 | code-simplification | Makes complicated code simple and easy to read without changing what it does. | The code works but is too complex to understand easily. |
 | code-review-and-quality | Reviews code changes for bugs, style, and security issues before saving. | Before completing a task or submitting your code. |
 
