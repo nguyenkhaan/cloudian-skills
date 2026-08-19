@@ -1,0 +1,14 @@
+Sử dụng các skills phù hợp trong folder skills có sẵn, cũng như các rules/ để giúp hiện thực hóa cụ thể ý tưởng.
+Mô tả dự án:
+
+Hiện tại tôi ddnag thực hiện dự án cloudian-skills.
+Tôi muốn nâng cấp dự án trở thànhmột AI-Agent kit.
+Tiến độ hiện tại:
+Tôi đã tiến hành tạo ra các rules và skills tôi nghĩ là cần thiết ở mức độ root của dự án.
+Tài liệu tham khảo
+Clone thêm 2 dự án tham khảo: super powers: Chứa các file SKILL cho thiết kế phân mềm
+ai-devkit: Dự án harness tham khảo cho các AI CLI.
+Yêu cầu:
+Hãy dựa vào 2 dự án tham khảo, kết gợp với các skills/ phù hợp để phân tích ý tưởng
+Trình bày cho tôi các thành phần cần thiết cho một dự án harness (ai agent kit). Trình bày vào bên trong folder docs/guide.md
+Nêu ra ý tưởng sơ bộ để hoàn thiện được dự án cloudian-kit.
